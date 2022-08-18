@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zafeer-kamran-abid-portfolio/static/css/main.af053671.css",
+    "main.js": "/zafeer-kamran-abid-portfolio/static/js/main.51bdde7b.js",
+    "index.html": "/zafeer-kamran-abid-portfolio/index.html",
+    "main.af053671.css.map": "/zafeer-kamran-abid-portfolio/static/css/main.af053671.css.map",
+    "main.51bdde7b.js.map": "/zafeer-kamran-abid-portfolio/static/js/main.51bdde7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af053671.css",
+    "static/js/main.51bdde7b.js"
+  ]
+}
